@@ -1,0 +1,22 @@
+html, body { padding:0px; margin:0px; font-size:14px; background-color:#F0F0F0;  }
+#content{ width:1100px; padding:20px; margin:auto; background-color:#FFFFFF; position:relative; }
+header{ position:absolute; right:20px; top:0px;  }
+
+.clear{ position:relative; clear:both; }
+.filename{ color:#0A1C82; }
+.bloc_legend { font-style:italic; color:#333333; font-size:13px;  }
+
+.intitule{ padding-right:200px; }
+
+.site_bloc{ width:520px;  }
+.site_bloc .bloc_img{ width:500px; height:500px; margin:10px 0px; padding:0px; display:block; border:0px solid #000000; }
+.site_bloc iframe.bloc_img{ width:520px; height:520px; margin:0px;  }
+.site_bloc iframe.bloc_img body{ margin:0px; padding:0px; }
+
+.bloc_user .bloc_legend{ padding-left:10px; }
+
+.bloc_img_sample { padding:10px 0px;  }
+.bloc_img_sample img{ margin:auto; }
+
+.exercice .site_bloc{ float:left; }
+
